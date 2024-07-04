@@ -1,0 +1,20 @@
+{
+    "name": "tchoblond59/cubeauth",
+    "description": "Laravel Auth Service Provider for CUBE API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tchoblond59\\Cubeauth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julien Lamandin",
+            "email": "j.lamandin@groupemaurizi.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2"
+    }
+}
